@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "productName": "Fresh Organic Apples",
+    "productImage": "🍎",
+    "nutrients": ["Fiber", "Vitamin C", "Potassium"],
+    "quantity": "1kg",
+    "price": 150,
+    "organic": true,
+    "description": "Crisp, juicy organic apples perfect for snacking or making healthy desserts."
+  },
+  {
+    "id": 2,
+    "productName": "Brown Rice",
+    "productImage": "🍚",
+    "nutrients": ["Carbohydrates", "Fiber", "Magnesium"],
+    "quantity": "5kg",
+    "price": 480,
+    "organic": true,
+    "description": "Nutritious whole-grain rice that’s high in fiber and great for balanced meals."
+  },
+  {
+    "id": 3,
+    "productName": "Whole Wheat Bread",
+    "productImage": "🍞",
+    "nutrients": ["Fiber", "Protein", "Iron"],
+    "quantity": "400g",
+    "price": 60,
+    "organic": false,
+    "description": "Soft, fresh bread made with whole wheat flour, perfect for a healthy breakfast."
+  },
+  {
+    "id": 4,
+    "productName": "Organic Spinach",
+    "productImage": "🥬",
+    "nutrients": ["Iron", "Vitamin A", "Vitamin K"],
+    "quantity": "500g",
+    "price": 90,
+    "organic": true,
+    "description": "Fresh green spinach leaves rich in vitamins and minerals for daily nutrition."
+  },
+  {
+    "id": 5,
+    "productName": "Almonds",
+    "productImage": "🌰",
+    "nutrients": ["Protein", "Vitamin E", "Magnesium"],
+    "quantity": "250g",
+    "price": 320,
+    "organic": false,
+    "description": "Crunchy and delicious almonds, a great source of healthy fats and energy."
+  }
+]
